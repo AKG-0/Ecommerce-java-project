@@ -6,7 +6,8 @@ Java JSP & Servlets (Backend)
 HTML, CSS, JavaScript, JQuery, Bootstrap (Frontend)
 MySQL DataBase
 Apache Tomcat Server
+
 Team Members:
-Atin Kumar Garg (Frontend) 
+Atin Kumar Garg (Frontend)
 Ariesha Mittal (Backend & Database)
 Ayush Pandey (Frontend) Profile
